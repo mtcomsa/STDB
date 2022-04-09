@@ -1,0 +1,830 @@
+charID	playID	play_title	author_VIAF	char_name	gender	char_desc
+1000001	1001	Le Maître de ballets	68926574	M. du Pas	male	maître de ballets
+1000002	1001	Le Maître de ballets	68926574	le, Comte d'Orville,	male	
+1000003	1001	Le Maître de ballets	68926574	La France	male	laquais de M. du Pas
+1000004	1002	Les Deux Anglais	68926574	Milord Wittham	male	
+1000005	1002	Les Deux Anglais	68926574	Milord Henri	male	
+1000006	1003	Le Poulet	68926574	M. d'Orville	malé	
+1000007	1003	Le Poulet	68926574	M. Frémont	male	médecin
+1000008	1003	Le Poulet	68926574	La Brie	male	laquais de M. d'Orville
+1000009	1003	Le Poulet	68926574	Comtois	male	laquais de M. d'Orville
+1000010	1004	Le Sourd	68926574	M. de l'Orme	male	sourd
+1000011	1004	Le Sourd	68926574	Mlle de l'Orme	female	fille de M. de l'Orme
+1000012	1004	Le Sourd	68926574	M. de Mirville	male	
+1000013	1004	Le Sourd	68926574	M. Dumont	male	
+1000014	1004	Le Sourd	68926574	Henriette	female	femme de chambre de Mlle de l'Orme
+1000015	1004	Le Sourd	68926574	M. Ronsin	male	notaire
+1000016	1005	Le Suisse malade	68926574	le, Baron de Rottberg	male	capitaine suisse
+1000017	1005	Le Suisse malade	68926574	le, Major	male	
+1000018	1005	Le Suisse malade	68926574	M. Roselin	male	médecin
+1000019	1005	Le Suisse malade	68926574	un Caporal	male	
+1000020	1005	Le Suisse malade	68926574	une Sentinelle	male	
+1000021	1005	Le Suisse malade	68926574	un, laquais	male	
+1000022	1005	Le Suisse malade	68926574	un garçon de cabaret	male	
+1000023	1006	L'Après-dinée	68926574	M. de Vernant	male	receveur-général des ﬁnances
+1000024	1006	L'Après-dinée	68926574	Mme de Vernant	female	
+1000025	1006	L'Après-dinée	68926574	M. l'Abbé de la Bruyère	male	
+1000026	1006	L'Après-dinée	68926574	M. le, Chevalier des Glands	male	officier
+1000027	1006	L'Après-dinée	68926574	Rosalie	female	femme de chambre de Mme de Vernant
+1000028	1007	Les Faux Indifférents	68926574	la, Comtesse	female	
+1000029	1007	Les Faux Indifférents	68926574	le, Chevalier	male	
+1000030	1007	Les Faux Indifférents	68926574	Henriette	female	femme de chambre de la comtesse
+1000031	1008	Le Portrait	68926574	M. Bernard	male	peintre en portrait
+1000032	1008	Le Portrait	68926574	M. Durbain	male	peintre d'histoire
+1000033	1008	Le Portrait	68926574	la Comtesse de Mineville	female	
+1000034	1008	Le Portrait	68926574	le, Comte de Mineville,	male	
+1000035	1008	Le Portrait	68926574	la Présidente de Bermont	female	
+1000036	1008	Le Portrait	68926574	l', Abbé, des Égards	male	
+1000037	1008	Le Portrait	68926574	le, Chevalier de Rouvière	male	
+1000038	1008	Le Portrait	68926574	le, Baron d'Orban	male	amateur
+1000039	1008	Le Portrait	68926574	Champagne	male	laquais
+1000040	1008	Le Portrait	68926574	Comtois	male	laquais
+1000041	1008	Le Portrait	68926574	La France	male	cocher
+1000042	1008	Le Portrait	68926574	Germain	male	élève de Bernard
+1000043	1009	Les Deux Amis	68926574	Rasignac	male	perruquier
+1000044	1009	Les Deux Amis	68926574	La Corne	male	marchand de peignes
+1000045	1009	Les Deux Amis	68926574	un, garçon cafetier	male	
+1000046	1010	Alménorade	68926574	le, Sultan	male	
+1000047	1010	Alménorade	68926574	Alménorade	female	princesse
+1000048	1010	Alménorade	68926574	Orcanor	male	général d'armée
+1000049	1010	Alménorade	68926574	Elmire	female	confidente d'Alménorade
+1000050	1010	Alménorade	68926574	Hassan	male	confident du Sultan
+1000051	1010	Alménorade	68926574	Ormin	male	confident d'Orcanor
+1000052	1010	Alménorade	68926574	deux gardes du sultan	group	
+1000053	1010	Alménorade	68926574	le, Souffleur	male	
+1000054	1011	Sortie de la Comédie Française	68926574	Mme de Vermont	female	
+1000055	1011	Sortie de la Comédie Française	68926574	Mme de Mirville	female	
+1000056	1011	Sortie de la Comédie Française	68926574	le, Comte de Versin	male	
+1000057	1011	Sortie de la Comédie Française	68926574	le, Chevalier	male	
+1000058	1011	Sortie de la Comédie Française	68926574	le, Duc	male	
+1000059	1011	Sortie de la Comédie Française	68926574	le, Marquis	male	
+1000060	1011	Sortie de la Comédie Française	68926574	le, Vicomte	male	
+1000061	1011	Sortie de la Comédie Française	68926574	le, Coureur du Duc	male	
+1000062	1011	Sortie de la Comédie Française	68926574	Tancrède	male	nègre
+1000063	1011	Sortie de la Comédie Française	68926574	Luxembourg	male	appelant les gens
+1000064	1012	Le Seigneur Auteur	68926574	le, Duc	male	
+1000065	1012	Le Seigneur Auteur	68926574	M. Ronflant	male	poète tragique
+1000066	1012	Le Seigneur Auteur	68926574	M. Décousu	male	poète d'opéra-comique
+1000067	1012	Le Seigneur Auteur	68926574	Dupré	male	valet de chambre du duc
+1000068	1013	Le Mari Absent	68926574	le, Bailli	male	
+1000069	1013	Le Mari Absent	68926574	Gros-Jean	male	paysan
+1000070	1013	Le Mari Absent	68926574	Catherine	female	femme de Gros-jean
+1000071	1014	Les Foux	68926574	M. Dissonant	male	musicien
+1000072	1014	Les Foux	68926574	M. l'Abbé Hiatus	male	poète
+1000073	1014	Les Foux	68926574	M. Desjarrets	male	maitre de ballets
+1000074	1014	Les Foux	68926574	Cabry	male	prévôt de m. Desjarrets
+1000075	1014	Les Foux	68926574	Mme Douaireville	female	plaideuse
+1000076	1014	Les Foux	68926574	un, garçon cafetier	male	
+1000077	1015	L'Important	68926574	Saint-Gratien	male	
+1000078	1015	L'Important	68926574	D'Auversac	male	
+1000079	1015	L'Important	68926574	le, Chevalier de Coure-Plaine	male	
+1000080	1015	L'Important	68926574	le, Maréchal de France	male	un Garçon
+1000081	1015	L'Important	68926574	Gervault	male	
+1000082	1015	L'Important	68926574	Derincourt	male	
+1000083	1015	L'Important	68926574	un garçon de théâtre	male	
+1000084	1016	L'Enragé	68926574	le, Comte d'Ermont	male	lieutenant-général
+1000085	1016	L'Enragé	68926574	le, Chevalier de Girsac	male	lieutenant d'infanterie
+1000086	1016	L'Enragé	68926574	Mme Thomas	female	maîtresse d'auberge
+1000087	1016	L'Enragé	68926574	M. Hachis	ma1e	cuisinier
+1000088	1017	Le Diamant	68926574	Mme de Gercourt	female	
+1000089	1017	Le Diamant	68926574	M. de Gercourt	male	
+1000090	1017	Le Diamant	68926574	le, Comte de Tourmont	male	
+1000091	1017	Le Diamant	68926574	Henriette	female	femme de chambre de Mme de Gercourt
+1000092	1017	Le Diamant	68926574	M. de Mirvault	male	frère de M. de Gercourt
+1000093	1017	Le Diamant	68926574	Ikael	male	marchand juif
+1000094	1017	Le Diamant	68926574	Dumont	male	valet de chambre de Mme de Gercourt
+1000095	1017	Le Diamant	68926574	Champagne	male	laquais de M. de Gercourt
+1000096	1018	Les Secondes loges de l'Opéra, le dimanche	68926574	Mme Goursain	female	marchande de galons
+1000097	1018	Les Secondes loges de l'Opéra, le dimanche	68926574	M. Goursain	male	son mari
+1000098	1018	Les Secondes loges de l'Opéra, le dimanche	68926574	Mme Merigon	female	marchande de drap
+1000099	1018	Les Secondes loges de l'Opéra, le dimanche	68926574	M. Merigon	malé	son mari
+1000100	1018	Les Secondes loges de l'Opéra, le dimanche	68926574	M. Morandal	male	intendant de maison
+1000101	1018	Les Secondes loges de l'Opéra, le dimanche	68926574	M. Renard	male	procureur du Châtelet
+1000102	1019	Les Deux Chapeaux	68926574	M. de Brecourt	male	
+1000103	1019	Les Deux Chapeaux	68926574	Mme de Brecourt	female	
+1000104	1019	Les Deux Chapeaux	68926574	le, Marquis de Rosemont	male	
+1000105	1019	Les Deux Chapeaux	68926574	Victoire	female	femme de chambre de Mme de Brecourt
+1000106	1020	La Statue	68926574	la Comtesse de Mireval	female	
+1000107	1020	La Statue	68926574	Mlle de Richevière	female	nièce de la Comtesse
+1000108	1020	La Statue	68926574	le, Marquis de Brecy	male	
+1000109	1020	La Statue	68926574	le, Baron de Fonpré	male	
+1000110	1020	La Statue	68926574	le, Chevalier de Clairefond	male	
+1000111	1020	La Statue	68926574	un, laquais	male	
+1000112	1021	Le Chapon au gros sel	68926574	Mme Minot	female	maîtresse de l'auberge du Panier-Fleuri
+1000113	1021	Le Chapon au gros sel	68926574	M. Després	male	
+1000114	1021	Le Chapon au gros sel	68926574	M. Dupont	male	
+1000115	1021	Le Chapon au gros sel	68926574	M. Guarini	male	chanteur italien
+1000116	1021	Le Chapon au gros sel	68926574	Claude	male	garçon du Panier-Fleuri
+1000117	1022	L'Abbé de coure-dîner	68926574	l', Abbé, de Coure-Diner	male	
+1000118	1022	L'Abbé de coure-dîner	68926574	Dame Anne	female	gouvernante de l'Abbé
+1000119	1022	L'Abbé de coure-dîner	68926574	M. de Montfort	male	homme de finance
+1000120	1022	L'Abbé de coure-dîner	68926574	Champagne	male	laquais de M. de Montfort
+1000121	1022	L'Abbé de coure-dîner	68926574	le, Président des Bouquins	male	amateur de livres
+1000122	1022	L'Abbé de coure-dîner	68926574	La France	male	laquais du Président
+1000123	1022	L'Abbé de coure-dîner	68926574	la Marquise d'Aimetout	female	
+1000124	1022	L'Abbé de coure-dîner	68926574	Julie	female	femme de chambre de la Marquise
+1000125	1022	L'Abbé de coure-dîner	68926574	Beaulieu	male	valet de chambre du vicomte de Guermont
+1000126	1022	L'Abbé de coure-dîner	68926574	Flamand	male	laquais du Vicomte
+1000127	1022	L'Abbé de coure-dîner	68926574	M. Bournin	male	médecin
+1000128	1022	L'Abbé de coure-dîner	68926574	Mme Bertrand	female	voisine de l'Abbé
+1000129	1022	L'Abbé de coure-dîner	68926574	Babet	female	fille de Mme Bertrand
+1000130	1023	Le Chasseur et les joueurs	68926574	Durand	male	chasseur
+1000131	1023	Le Chasseur et les joueurs	68926574	Clérac	male	officier d'infanterie
+1000132	1023	Le Chasseur et les joueurs	68926574	Saint-Romain	male	officier d'infanterie
+1000133	1023	Le Chasseur et les joueurs	68926574	La Rentrée	male	garde-chasse
+1000134	1024	L'Avocat chansonnier	68926574	M. de la Barre	male	avocat
+1000135	1024	L'Avocat chansonnier	68926574	M. de la Motte	male	ami de M. de la Barre
+1000136	1024	L'Avocat chansonnier	68926574	Mme Poursuit	female	plaideuse
+1000137	1024	L'Avocat chansonnier	68926574	La Pierre	male	laquais de M. de la Barre
+1000138	1025	L'Histoire	68926574	la, Marquise	female	
+1000139	1025	L'Histoire	68926574	la, Comtesse	female	
+1000140	1025	L'Histoire	68926574	le, Vicomte	male	
+1000141	1025	L'Histoire	68926574	le, Baron	male	
+1000142	1025	L'Histoire	68926574	l', Abbé, de Fond-Gras	male	
+1000143	1025	L'Histoire	68926574	le, Commandeur de Cantac	male	
+1000144	1025	L'Histoire	68926574	Duval	male	valet de chambre, de la Comtesse
+1000145	1026	Le Bal	68926574	Mme de Clervaut	female	
+1000146	1026	Le Bal	68926574	M. de Clervaut	male	
+1000147	1026	Le Bal	68926574	Mme d'Orville	female	
+1000148	1026	Le Bal	68926574	le, Chevalier de Bercy	male	
+1000149	1026	Le Bal	68926574	M. de Saint-Val	male	ami de M. De Clervaut
+1000150	1027	Le Peintre en cul-de-sac	68926574	M. le, Maire	male	
+1000151	1027	Le Peintre en cul-de-sac	68926574	M. le, Clerc	male	ami de M. le Maire
+1000152	1027	Le Peintre en cul-de-sac	68926574	Le Gris	male	balayeur
+1000153	1027	Le Peintre en cul-de-sac	68926574	M. Raphael	male	peintre d'enseignes
+1000154	1028	La veste brodée	68926574	la Marquise	female	
+1000155	1028	La veste brodée	68926574	Le Comte	male	
+1000156	1028	La veste brodée	68926574	Le Chevalier	male	
+1000157	1028	La veste brodée	68926574	Émilie	female	femme de chambre de la Marquise
+1000158	1029	Le Boîteux	68926574	Justine	female	marchande de modes
+1000159	1029	Le Boîteux	68926574	Rosalie	female	marchande de modes
+1000160	1029	Le Boîteux	68926574	Mme Louvier	female	marchande de draps
+1000161	1029	Le Boîteux	68926574	Mlle Javotte	female	fille de Mme Louvier
+1000162	1029	Le Boîteux	68926574	De l'Aune	male	garçon de boutique de Mme Louvier
+1000163	1029	Le Boîteux	68926574	M. Raimond	male	boiteux et bredouilleur
+1000164	1029	Le Boîteux	68926574	Grand-Pierre	male	commissionnaire du quartier
+1000165	1030	Le Bavard	68926574	La Comtesse de Sourville	female	
+1000166	1030	Le Bavard	68926574	Le Commandeur de Grisac	male	
+1000167	1030	Le Bavard	68926574	M. de la Poternière	male	major de Bouchain
+1000168	1030	Le Bavard	68926574	Dubois	male	valet de chambre, de la Comtesse
+1000169	1031	Le Chien de foire	68926574	Mme de Grand-Cour	female	
+1000170	1031	Le Chien de foire	68926574	Mme de Fermant	female	
+1000171	1031	Le Chien de foire	68926574	Le Chevalier	male	
+1000172	1031	Le Chien de foire	68926574	l'Abbé	malé	
+1000173	1031	Le Chien de foire	68926574	le Président	male	
+1000174	1031	Le Chien de foire	68926574	le Maître du chien	male	
+1000175	1031	Le Chien de foire	68926574	Cadet	male	
+1000176	1031	Le Chien de foire	68926574	Le Chien	animal	
+1000177	1032	Le veuf	68926574	M. d'Orbel	male	
+1000178	1032	Le veuf	68926574	M. d'Ervière	male	
+1000179	1032	Le veuf	68926574	M. de Grand-Pré	male	M. de Grand-Pré, veuf
+1000180	1033	Le distrait	68926574	la Comtesse de Belle-Roche	female	
+1000181	1033	Le distrait	68926574	le Marquis de Marière	male	
+1000182	1033	Le distrait	68926574	Le Chevalier de Saint-Léger	male	
+1000183	1033	Le distrait	68926574	Victoire	female	femme de chambre de la Comtesse
+1000184	1033	Le distrait	68926574	Le Blond	male	valet de chambre de la Comtesse
+1000185	1034	Les Pleureurs d'Homère	68926574	M. Desgrais	male	
+1000186	1034	Les Pleureurs d'Homère	68926574	M.Delepine	male	
+1000187	1034	Les Pleureurs d'Homère	68926574	M. Duchesne	male	
+1000188	1034	Les Pleureurs d'Homère	68926574	Mme Ramas	female	revendeuse
+1000189	1035	Le Petit maître par philosophie	68926574	la, Comtesse	female	
+1000190	1035	Le Petit maître par philosophie	68926574	le, Marquis	male	
+1000191	1035	Le Petit maître par philosophie	68926574	le, Chevalier	male	
+1000192	1035	Le Petit maître par philosophie	68926574	Dupré	male	valet de chambre, de la Comtesse
+1000193	1036	Le Chanteur italien	68926574	M. de S. Hygin	male	
+1000194	1036	Le Chanteur italien	68926574	Mlle de S. Hygin	female	fille de M. de Saint Hygin
+1000195	1036	Le Chanteur italien	68926574	M. Delamarre	male	
+1000196	1036	Le Chanteur italien	68926574	M. Octavini	male	musicien italien
+1000197	1036	Le Chanteur italien	68926574	un, laquais	male	
+1000198	1037	Le Petit poucet	68926574	Guillaume	male	bucheron
+1000199	1037	Le Petit poucet	68926574	Perrette	female	femme de Guillaume
+1000200	1037	Le Petit poucet	68926574	le Petit Poucet	male	
+1000201	1037	Le Petit poucet	68926574	Pierrot	male	enfant du boucheron
+1000202	1037	Le Petit poucet	68926574	Javotte	female	enfant du boucheron
+1000203	1037	Le Petit poucet	68926574	Janette	female	enfant du boucheron
+1000204	1037	Le Petit poucet	68926574	l'Ogre	male	
+1000205	1037	Le Petit poucet	68926574	la Mère Bonnette	female	vieille servante de l'Ogre
+1000206	1037	Le Petit poucet	68926574	La Brisée	male	garde de chasse
+1000207	1037	Le Petit poucet	68926574	La Rentrée	male	garde de chasse
+1000208	1037	Le Petit poucet	68926574	Bourguignon	male	laquais du Seigneur
+1000209	1037	Le Petit poucet	68926574	Beauvais	male	laquais du Seigneur
+1000210	1038	L'auteur Avantageux	68926574	l', Abbé	male	
+1000211	1038	L'auteur Avantageux	68926574	le, Chevalier	male	
+1000212	1038	L'auteur Avantageux	68926574	le, Comédien	male	
+1000213	1039	Le Boudoir	68926574	M. de Bourval	male	
+1000214	1039	Le Boudoir	68926574	Mlle de S. Edme	female	
+1000215	1039	Le Boudoir	68926574	le, Chevalier de Gorville	male	
+1000216	1039	Le Boudoir	68926574	Sophie	female	femme de chambre de Mlle de S. Edme
+1000217	1039	Le Boudoir	68926574	M. d'Orsant	male	oncle du Chevalier de Gorville
+1000218	1040	Le Pari	68926574	Mme Moka	female	maîtresse du caffé
+1000219	1040	Le Pari	68926574	M. Duval	male	jeune homme
+1000220	1040	Le Pari	68926574	M. Delalande	male	jeune homme
+1000221	1040	Le Pari	68926574	M. Després	male	jeune homme
+1000222	1040	Le Pari	68926574	M. Ledoux	male	manchot
+1000223	1040	Le Pari	68926574	un, garçon cafetier	male	
+1000224	1041	La Médaille d'Othon	68926574	M. Deverberie	male	
+1000225	1041	La Médaille d'Othon	68926574	M. Delamerci	male	
+1000226	1041	La Médaille d'Othon	68926574	l', Abbé, de l'Exergue	male	
+1000227	1041	La Médaille d'Othon	68926574	Leroux	male	laquais de M. Deverberie
+1000228	1042	L'Homme qui craint d'aimer	68926574	la Marquise de Léry	female	
+1000229	1042	L'Homme qui craint d'aimer	68926574	le, Comte des Glantieres	male	
+1000230	1042	L'Homme qui craint d'aimer	68926574	le, Chevalier de S. Furcy	male	
+1000231	1042	L'Homme qui craint d'aimer	68926574	Champagne	male	valet
+1000232	1043	La Rose rouge	68926574	M. Brossart	male	maître peintre
+1000233	1043	La Rose rouge	68926574	Mme Brossart	female	
+1000234	1043	La Rose rouge	68926574	M. Vinot	malè	cabaretier
+1000235	1043	La Rose rouge	68926574	Bertrand	male	garçon cabaretier
+1000236	1044	L'auteur et l'amateur	68926574	M. Deloureville	male	amateur
+1000237	1044	L'auteur et l'amateur	68926574	M. Pastoureau	male	poète
+1000238	1044	L'auteur et l'amateur	68926574	Béry	male	laquais de M. Deloureville
+1000239	1045	La Veuve avare	68926574	M. Renaud Dubouloir	male	avocat
+1000240	1045	La Veuve avare	68926574	Mme Durepert	female	veuve
+1000241	1045	La Veuve avare	68926574	le, Chevalier de S. Rieul	male	
+1000242	1045	La Veuve avare	68926574	Lapierre	male	laquais de M. Dubouloir
+1000243	1046	La Permission de chasse	68926574	M. Dugrepont	male	
+1000244	1046	La Permission de chasse	68926574	M. Devillerval	male	
+1000245	1046	La Permission de chasse	68926574	M. Debonniere	male	
+1000246	1046	La Permission de chasse	68926574	S. Eloy	male	piqueur dressant les chevaux pour tout le monde
+1000247	1047	Les Époux Malheureux	68926574	M. de S. Firmin	male	
+1000248	1047	Les Époux Malheureux	68926574	Pauline	female	femme de M. de S. Firmin
+1000249	1047	Les Époux Malheureux	68926574	M. Vincent	male	tapissier-fripier
+1000250	1047	Les Époux Malheureux	68926574	Dupré	male	valet de chambre de l'oncle de M. de S. Firmin
+1000251	1047	Les Époux Malheureux	68926574	Dumont	male	ami de Dupré
+1000252	1047	Les Époux Malheureux	68926574	un huissier	male	
+1000253	1047	Les Époux Malheureux	68926574	un commissaire	male	
+1000254	1047	Les Époux Malheureux	68926574	un clerc	male	
+1000255	1047	Les Époux Malheureux	68926574	des archers	group	
+1000256	1048	L'écrivain des Charniers	68926574	Mme de l'Aiguille	female	marchande lingère
+1000257	1048	L'écrivain des Charniers	68926574	Mlle Janneton	female	sa fille
+1000258	1048	L'écrivain des Charniers	68926574	M. Dubois	male	débitant de tabac
+1000259	1048	L'écrivain des Charniers	68926574	M. Dubois	male	Fils
+1000260	1048	L'écrivain des Charniers	68926574	M. Discret	male	écrivain des Charniers
+1000261	1048	L'écrivain des Charniers	68926574	Nicolas	male	commissionnaire
+1000262	1049	Le Suisse de porte et le portrait	68926574	la, Marquise	female	veuve
+1000263	1049	Le Suisse de porte et le portrait	68926574	le, Baron	male	
+1000264	1049	Le Suisse de porte et le portrait	68926574	le, Comte	male	
+1000265	1049	Le Suisse de porte et le portrait	68926574	le, Suisse de la Marquise	male	
+1000266	1049	Le Suisse de porte et le portrait	68926574	Dubois	male	valet de chambre de la Marquise
+1000267	1050	L'Étranger	68926574	M. Trotberg	male	banquier allemand
+1000268	1050	L'Étranger	68926574	M. Dubreuil	male	banquier français
+1000269	1050	L'Étranger	68926574	M. Dubreuil fils	male	
+1000270	1050	L'Étranger	68926574	Lapierre	male	laquais de M. Dubreuil
+1000271	1051	Le Lièvre	68926574	M. Dubut	male	avocat
+1000272	1051	Le Lièvre	68926574	Dame Jacqueline	female	servante de M. Dubut
+1000273	1051	Le Lièvre	68926574	Gros-Pierre	male	paysan
+1000274	1051	Le Lièvre	68926574	Vincent	male	paysan
+1000275	1052	Les Bons	68926574	M. de Grantier financier	male	
+1000276	1052	Les Bons	68926574	M. Dupont	male	secrétaire de M. de Grantier
+1000277	1052	Les Bons	68926574	Mme de Villemare	female	sœur de M. de Grantier
+1000278	1052	Les Bons	68926574	l', Abbé, de la Sourdière	male	
+1000279	1052	Les Bons	68926574	M. Després	male	Employé de Chartres
+1000280	1052	Les Bons	68926574	M. Demérin	male	Commis
+1000281	1052	Les Bons	68926574	Dubois	male	
+1000282	1052	Les Bons	68926574	Lafond	male	
+1000283	1052	Les Bons	68926574	De l'Isle	male	valet de Chambre de M. de Grantier
+1000284	1052	Les Bons	68926574	M. Hochepot	male	Maître d'Hôtel de M. de Grantier
+1000285	1053	L'Avocat Consultant	68926574	M. Galand de la Riverie	male	avocat
+1000286	1053	L'Avocat Consultant	68926574	M. de S. Hilaire	male	officier
+1000287	1053	L'Avocat Consultant	68926574	M. de Cachant	male	officier
+1000288	1053	L'Avocat Consultant	68926574	Benoist	male	laquais de M. Galand de la Riverie
+1000289	1054	Les Désespérés de l'Opéra	68926574	M. Sanglier	male	
+1000290	1054	Les Désespérés de l'Opéra	68926574	M. Pillier	male	
+1000291	1054	Les Désespérés de l'Opéra	68926574	M. Pointdutout	male	
+1000292	1054	Les Désespérés de l'Opéra	68926574	M. Qu'Importe	male	
+1000293	1054	Les Désespérés de l'Opéra	68926574	le, Garçon caffetier	male	
+1000294	1055	Le Bon mari	68926574	le, Comte de Bourville	male	
+1000295	1055	Le Bon mari	68926574	la Comtesse de Bourville	female	
+1000296	1055	Le Bon mari	68926574	le, Vicomte des Coinsieres	male	
+1000297	1055	Le Bon mari	68926574	le, Chevalier de la Cerisaye	male	
+1000298	1055	Le Bon mari	68926574	Duval	male	valet de Chambre de la Comtesse de Bourville
+1000299	1056	La Corbeille de Mariage	68926574	Mme de Péraudiere	female	
+1000300	1056	La Corbeille de Mariage	68926574	Mlle de Péraudiere	female	
+1000301	1056	La Corbeille de Mariage	68926574	le, Chevalier de Rouval	male	
+1000302	1056	La Corbeille de Mariage	68926574	Victoire	female	femme de chambre de Mlle de Péraudiere
+1000303	1056	La Corbeille de Mariage	68926574	M. de Boursaule	male	oncle et tuteur de Mlle de Péraudiere
+1000304	1056	La Corbeille de Mariage	68926574	M. Bournin	male	notaire
+1000305	1056	La Corbeille de Mariage	68926574	Comtois	male	laquais de Mme de Péraudiere
+1000306	1057	L'Officier du Gobelet	68926574	M. de S. Brice	male	capitaine d'infanterie
+1000307	1057	L'Officier du Gobelet	68926574	M. du Parc	male	capitaine de cavalerie
+1000308	1057	L'Officier du Gobelet	68926574	M. de Plaveau	male	bailli de Nogent et officier du Gobelet
+1000309	1057	L'Officier du Gobelet	68926574	Marianne	female	servante
+1000310	1058	La Recommandation	68926574	M. de La Bruyere	male	conseiller d'état
+1000311	1058	La Recommandation	68926574	Mme de la Bruyere	female	
+1000312	1058	La Recommandation	68926574	la Comtesse de S. Leger	female	
+1000313	1058	La Recommandation	68926574	M. Dumont	male	
+1000314	1058	La Recommandation	68926574	le Grand	male	valet de chambre de Mme de la Bruyere
+1000315	1059	Le Faux empoisonnement	68926574	la Marquise de Rouviere	female	
+1000316	1059	Le Faux empoisonnement	68926574	le, Comte de Belville	male	
+1000317	1059	Le Faux empoisonnement	68926574	Julie	female	femme de chambre de la Marquise
+1000318	1059	Le Faux empoisonnement	68926574	Lafleur	male	laquais du Comte
+1000319	1059	Le Faux empoisonnement	68926574	M. Marcelin	male	médecin
+1000320	1059	Le Faux empoisonnement	68926574	La France	male	laquais de la Marquise
+1000321	1059	Le Faux empoisonnement	68926574	un offcier d'office	male	
+1000322	1060	L'Importun	68926574	la Comtesse de Cléancy	female	
+1000323	1060	L'Importun	68926574	le, Chevalier de Sourville	male	
+1000324	1060	L'Importun	68926574	le, Marquis de Blanpré	male	
+1000325	1060	L'Importun	68926574	le, Vicomte des Bornes	male	
+1000326	1060	L'Importun	68926574	Legris	male	valet de chambre, de la Comtesse
+1000327	1061	Le Chien Jupiter	68926574	M. de Saint-Aurèle	male	
+1000328	1061	Le Chien Jupiter	68926574	Mlle de Saint-Aurèle	female	
+1000329	1061	Le Chien Jupiter	68926574	M. de Valbert	male	
+1000330	1061	Le Chien Jupiter	68926574	Flamand	male	laquais de M. de Saint-Aurèle
+1000331	1062	L'Ambassadeur	68926574	le, Marquis d'Arville	male	ambassadeur
+1000332	1062	L'Ambassadeur	68926574	la Marquise d'Arville	female	sa femme
+1000333	1062	L'Ambassadeur	68926574	le, Chevalier de Rosemont	male	
+1000334	1062	L'Ambassadeur	68926574	Julie	female	femme de chambre de la marquise d'Arville
+1000335	1063	Le Prince Wourtsberg	68926574	le, Prince Wourtsberg	male	souverain
+1000336	1063	Le Prince Wourtsberg	68926574	la Princesse Gudule	female	
+1000337	1063	Le Prince Wourtsberg	68926574	la Princesse Ulrique	female	
+1000338	1063	Le Prince Wourtsberg	68926574	le, Grand Chambellan	male	
+1000339	1063	Le Prince Wourtsberg	68926574	le, Baron Schloff	male	
+1000340	1063	Le Prince Wourtsberg	68926574	M. Brillantson	male	chanteur français
+1000341	1063	Le Prince Wourtsberg	68926574	Frédéric	male	valet de chambre du Prince
+1000342	1063	Le Prince Wourtsberg	68926574	les Musiciens du Prince	group	
+1000343	1064	Le Bossu	68926574	le, Chevalier	malé	sous le nom du Président de Rouvigny
+1000344	1064	Le Bossu	68926574	Mme de Saint-Clari	female	veuve
+1000345	1064	Le Bossu	68926574	Mme de Mouson	female	veuve
+1000346	1064	Le Bossu	68926574	M. de Pirmont	male	officier de cavalerie
+1000347	1064	Le Bossu	68926574	Tourangeau	male	laquais du Président
+1000348	1065	La Robe de chambre	68926574	M. Lerond	male	veuf
+1000349	1065	La Robe de chambre	68926574	M. de Saint-Maur	male	
+1000350	1065	La Robe de chambre	68926574	Mlle de l'Épine	female	nièce de M. de Saint-Maur
+1000351	1065	La Robe de chambre	68926574	Dame Françoise	female	gouvernante de M. Lerond
+1000352	1066	Le Sot et les fripons	68926574	Mme de la Tasse	female	limonadière
+1000353	1066	Le Sot et les fripons	68926574	Mlle Cécile	female	fille de Mme de la Tasse
+1000354	1066	Le Sot et les fripons	68926574	M. Dupont	male	écrivain pas encore juré-expert
+1000355	1066	Le Sot et les fripons	68926574	M. Ducornet	male	
+1000356	1066	Le Sot et les fripons	68926574	M. Dutrouillet	male	
+1000357	1066	Le Sot et les fripons	68926574	Louis	male	garçon cafetier
+1000358	1067	La Sonette	68926574	M. Victorin	male	commissaire des guerres
+1000359	1067	La Sonette	68926574	Mme Victorin	female	
+1000360	1067	La Sonette	68926574	le, Chevalier du Parc	male	officier d'infanterie
+1000361	1067	La Sonette	68926574	M. de Saint-Vignard	malé	officier d'infanterie
+1000362	1067	La Sonette	68926574	M. de Laviroux	male	officier d'infanterie
+1000363	1068	Le Trompeur favorable	68926574	M. Leblanc	male	tuteur de Mlle de Saint-Genest
+1000364	1068	Le Trompeur favorable	68926574	Mlle de Saint-Genest	female	
+1000365	1068	Le Trompeur favorable	68926574	Julie	female	femme de chambre de Mlle de Saint-Genest
+1000366	1068	Le Trompeur favorable	68926574	le, Chevalier du Cherny	male	
+1000367	1068	Le Trompeur favorable	68926574	M. du Cherny	male	père du Chevalier du Cherny
+1000368	1068	Le Trompeur favorable	68926574	M. Jaquemin	male	commissaire
+1000369	1068	Le Trompeur favorable	68926574	Champagne	male	laquais de M. Leblanc
+1000370	1068	Le Trompeur favorable	68926574	Picard	male	laquais de M. Leblanc
+1000371	1068	Le Trompeur favorable	68926574	des, Archers	group	
+1000372	1069	La Guingette	68926574	Mme Minuit	female	sage-femme
+1000373	1069	La Guingette	68926574	Mlle Goton	female	fille de Mme Minuit
+1000374	1069	La Guingette	68926574	M. Piquepoint	male	tailleur
+1000375	1069	La Guingette	68926574	M. Battu	male	huissier
+1000376	1069	La Guingette	68926574	M. de la Tresse	male	perruquier
+1000377	1069	La Guingette	68926574	un Garçon cabaretier	male	
+1000378	1070	L'Amateur du tragique	68926574	M. de Tendreville	male	oncle de Mlle de Rinant
+1000379	1070	L'Amateur du tragique	68926574	Mlle de Rinant	female	
+1000380	1070	L'Amateur du tragique	68926574	M. de la Chainière	male	
+1000381	1070	L'Amateur du tragique	68926574	M. du Rivault	male	
+1000382	1070	L'Amateur du tragique	68926574	Saint-Jean	male	laquais
+1000383	1071	Le Médecin gourmand	68926574	M. de Belronde	male	
+1000384	1071	Le Médecin gourmand	68926574	M. Bremin	male	médecin
+1000385	1071	Le Médecin gourmand	68926574	M. du Morbois	male	ami de M. de Belronde
+1000386	1071	Le Médecin gourmand	68926574	La France	male	laquais de M. de Belronde
+1000387	1071	Le Médecin gourmand	68926574	Saint-Jean	male	laquais de M. de Belronde
+1000388	1072	Le Seigneur du Village, amoureux	68926574	M. de Bourclos	male	seigneur du village
+1000389	1072	Le Seigneur du Village, amoureux	68926574	la Mère Rougeau	female	vieille veuve
+1000390	1072	Le Seigneur du Village, amoureux	68926574	Agathe	female	fille de la mère Rougeau
+1000391	1072	Le Seigneur du Village, amoureux	68926574	M. Canon	male	apothicaire
+1000392	1073	La Marchande de cerises	68926574	Mme Mignonette	female	limonadière
+1000393	1073	La Marchande de cerises	68926574	Mlle Marianne	female	fille de Mme Mignonette
+1000394	1073	La Marchande de cerises	68926574	M. d'Escabious	male	officier d'infanterie
+1000395	1073	La Marchande de cerises	68926574	M. de Saint-Damase	male	officier d'infanterie
+1000396	1073	La Marchande de cerises	68926574	la mère Rocomme	female	marchande de cerises
+1000397	1073	La Marchande de cerises	68926574	Jean	male	garçon de café
+1000398	1074	La Dent	68926574	le, Baron Cleinersdorff	male	colonel allemand
+1000399	1074	La Dent	68926574	le, Chevalier de Saint-Clair	male	capitaine français dans le régiment de Cleinersdorff
+1000400	1074	La Dent	68926574	M. Tirefort	male	dentiste français
+1000401	1074	La Dent	68926574	Pitermann	male	maître du café
+1000402	1075	L'Ane dans le Potager	68926574	M. Gourchon	male	procureur
+1000403	1075	L'Ane dans le Potager	68926574	Mlle Adélaïde	female	fille de M. Gourchon
+1000404	1075	L'Ane dans le Potager	68926574	M. Broute	male	vieux médecin
+1000405	1075	L'Ane dans le Potager	68926574	Saint-André	male	laquais de M. Gourchon
+1000406	1075	L'Ane dans le Potager	68926574	Dame Germaine	female	gouvernante de M. Broute
+1000407	1076	Le Marchand de bijoux	68926574	M. de la Griffe	male	
+1000408	1076	Le Marchand de bijoux	68926574	M. Bontour	male	
+1000409	1076	Le Marchand de bijoux	68926574	M. Paffe	male	
+1000410	1076	Le Marchand de bijoux	68926574	Ézéchiel	male	juif
+1000411	1076	Le Marchand de bijoux	68926574	un, garçon cafetier	male	
+1000412	1076	Le Marchand de bijoux	68926574	M. Pomart	male	
+1000413	1077	Le Mari	68926574	M. de Mondoux	male	
+1000414	1077	Le Mari	68926574	Mme de Mondoux	female	
+1000415	1077	Le Mari	68926574	le, Vicomte de Solmare	male	
+1000416	1077	Le Mari	68926574	la Marquise de Belmière	female	
+1000417	1077	Le Mari	68926574	le, Chevalier de Saint-Clair	male	
+1000418	1077	Le Mari	68926574	la Comtesse de Nerville	female	
+1000419	1077	Le Mari	68926574	le, Baron d'Ornbruck	male	
+1000420	1077	Le Mari	68926574	Legris	male	valet de chambre de Mme de Mondoux
+1000421	1078	La Perruque	68926574	M. des Ciseaux	male	tailleur
+1000422	1078	La Perruque	68926574	M. Cheveux	male	perruquier
+1000423	1078	La Perruque	68926574	M. le Blond	male	ami commun
+1000424	1078	La Perruque	68926574	un Pauvre	male	
+1000425	1078	La Perruque	68926574	Louis	male	garçon cafetier
+1000426	1079	L'Habit neuf	68926574	M. de Marbeau	male	tuteur de Mlle de Saint-Martial
+1000427	1079	L'Habit neuf	68926574	Mlle de Saint-Martial	female	
+1000428	1079	L'Habit neuf	68926574	Dame Monique	female	gouvernante de M. de Marbeau
+1000429	1079	L'Habit neuf	68926574	M. de Fortière	male	
+1000430	1079	L'Habit neuf	68926574	le, Bailli	male	
+1000431	1079	L'Habit neuf	68926574	Cordonnet	male	
+1000432	1079	L'Habit neuf	68926574	le, Greffier	male	
+1000433	1080	Le Sot ami	68926574	M. de Courvillers	male	
+1000434	1080	Le Sot ami	68926574	Mme de Courvillers	female	
+1000435	1080	Le Sot ami	68926574	Mlle de Courvillers	female	
+1000436	1080	Le Sot ami	68926574	M. de Saint-Clet	male	
+1000437	1080	Le Sot ami	68926574	M. de la Saussaye	male	provincial
+1000438	1081	L'Amant malgré lui	68926574	Madame de Mongast	female	veuve
+1000439	1081	L'Amant malgré lui	68926574	M. de Saint-Guy	male	
+1000440	1081	L'Amant malgré lui	68926574	M. de Valpierre	male	
+1000441	1081	L'Amant malgré lui	68926574	Madame de Fourville	female	veuve
+1000442	1082	Le Comédien bourgeois	68926574	M. Robineau	male	procureur
+1000443	1082	Le Comédien bourgeois	68926574	M. Robineau le fils	male	
+1000444	1082	Le Comédien bourgeois	68926574	Étienne	male	laquais de MM. Robineau
+1000445	1083	Les Deux filoux	68926574	le, Marquis de Drouville	male	
+1000446	1083	Les Deux filoux	68926574	Vide-Poche	male	filou
+1000447	1083	Les Deux filoux	68926574	l'Hameçon	male	filou
+1000448	1083	Les Deux filoux	68926574	Berbardy	male	coureur du marquis
+1000449	1084	La Diète	68926574	M. Despreuils	male	
+1000450	1084	La Diète	68926574	Mme Denerée	female	veuve
+1000451	1084	La Diète	68926574	le, Chevalier de Saint-Jules	male	
+1000452	1084	La Diète	68926574	Mme Babas	female	gouvernante de M. Despreuils
+1000453	1084	La Diète	68926574	La Roche	male	laquais de M. Despreuils
+1000454	1084	La Diète	68926574	Le Brun	male	laquais du chevalier de Saint-Jules
+1000455	1084	La Diète	68926574	M. Sobrin	male	médecin
+1000456	1084	La Diète	68926574	La Fleur	male	laquais de M. Despreuils
+1000457	1085	Les Deux auteurs	68926574	M. le Nain	male	auteur
+1000458	1085	Les Deux auteurs	68926574	M. le Gris	male	auteur
+1000459	1086	Ulzette et Zaskin	68926574	le, Grand-Seigneur	male	sultan
+1000460	1086	Ulzette et Zaskin	68926574	le, Mouphti	male	
+1000461	1086	Ulzette et Zaskin	68926574	Ulzette	female	princesse grecque
+1000462	1086	Ulzette et Zaskin	68926574	Zaskin	male	prince grec
+1000463	1086	Ulzette et Zaskin	68926574	le, Chef des Eunuques	male	
+1000464	1086	Ulzette et Zaskin	68926574	eunuques	group	
+1000465	1086	Ulzette et Zaskin	68926574	janissaires	group	
+1000466	1086	Ulzette et Zaskin	68926574	spahis	group	
+1000467	1086	Ulzette et Zaskin	68926574	gardes	group	
+1000468	1086	Ulzette et Zaskin	68926574	un muet	male	
+1000469	1086	Ulzette et Zaskin	68926574	muets	group	
+1000470	1087	Dame Jeanne	68926574	M. de la Rivière	male	principal
+1000471	1087	Dame Jeanne	68926574	M. d'Avarin	male	économe
+1000472	1087	Dame Jeanne	68926574	M. Boivin	male	grand écolier
+1000473	1087	Dame Jeanne	68926574	M. Raisin	male	grand écolier
+1000474	1087	Dame Jeanne	68926574	M. de la Vigne	male	grand écolier
+1000475	1088	L'Aveugle avare	68926574	M. Savoneau	male	barbier
+1000476	1088	L'Aveugle avare	68926574	Jeanneton	female	fille de M. Savoneau
+1000477	1088	L'Aveugle avare	68926574	Tatonet	male	aveugle demandant l'aumône
+1000478	1089	Le Chanoine de Reims	68926574	l', Abbé, de la Craie	male	chanoine de Reims
+1000479	1089	Le Chanoine de Reims	68926574	M. Colliger	male	auteur
+1000480	1089	Le Chanoine de Reims	68926574	M. Festons	male	décorateur des menus plaisirs
+1000481	1089	Le Chanoine de Reims	68926574	Dame Monique	female	gouvernante de l'abbé de la Craie
+1000482	1089	Le Chanoine de Reims	68926574	Saint-Pierre	male	laquais de M. Festons
+1000483	1090	Le Sot héritier	68926574	M. De Précinat	male	
+1000484	1090	Le Sot héritier	68926574	Mlle de Précinat	female	fille de M. de Précinat
+1000485	1090	Le Sot héritier	68926574	M. d'Alvin	male	
+1000486	1090	Le Sot héritier	68926574	M. Berniquet	male	
+1000487	1090	Le Sot héritier	68926574	La France	male	laquais de M. d'Alvin
+1000488	1091	Le Fripon orgueilleux	68926574	Mme de Clersel	female	
+1000489	1091	Le Fripon orgueilleux	68926574	le, Comte de Valpreux	male	
+1000490	1091	Le Fripon orgueilleux	68926574	le, Baron de Valpreux	male	fils
+1000491	1091	Le Fripon orgueilleux	68926574	le, Duc de Nervay	male	ministre
+1000492	1091	Le Fripon orgueilleux	68926574	M. Bouffi	male	financier
+1000493	1091	Le Fripon orgueilleux	68926574	Le Brun	male	valet de chambre de Mme de Clersel
+1000494	1092	Les Voyageurs	68926574	Mme de Martillière	female	
+1000495	1092	Les Voyageurs	68926574	Mme de Sousay	female	
+1000496	1092	Les Voyageurs	68926574	l', Abbé, d'Orlot	male	
+1000497	1092	Les Voyageurs	68926574	Mme Rougeau	female	maîtresse de poste
+1000498	1092	Les Voyageurs	68926574	M. du Hable	male	
+1000499	1092	Les Voyageurs	68926574	M. Pinçon	male	exempt de la méchaussée
+1000500	1092	Les Voyageurs	68926574	André	male	postillon de la poste
+1000501	1093	Les Ennuis de la campagne	68926574	Mme de Clairas	female	
+1000502	1093	Les Ennuis de la campagne	68926574	Mme de Resan	female	
+1000503	1093	Les Ennuis de la campagne	68926574	M. de Clairas	male	
+1000504	1093	Les Ennuis de la campagne	68926574	le, Chevalier de Corsi	male	
+1000505	1093	Les Ennuis de la campagne	68926574	l', Abbé, Conserve	male	
+1000506	1093	Les Ennuis de la campagne	68926574	M. Tragiquin	male	comédien
+1000507	1093	Les Ennuis de la campagne	68926574	Dubois	male	valet de chambre
+1000508	1093	Les Ennuis de la campagne	68926574	La Brisée	male	garde de chasse
+1000509	1094	Criardus et scandée	68926574	Poignardin	male	roi de l'île de Chypre
+1000510	1094	Criardus et scandée	68926574	Scandée	female	princesse corinthienne
+1000511	1094	Criardus et scandée	68926574	Criardus	male	prince corinthien
+1000512	1094	Criardus et scandée	68926574	Trotas	male	confident de Criardus
+1000513	1094	Criardus et scandée	68926574	Gardes de Pignardin	group	
+1000514	1095	Le Malentendu	68926574	l', Abbesse	female	
+1000515	1095	Le Malentendu	68926574	la Mère Sainte-Hélène	female	maîtresse des pensionnaires
+1000516	1095	Le Malentendu	68926574	la mère Saint-Basile	female	portière
+1000517	1095	Le Malentendu	68926574	le, Père Saturnin	male	cordelier
+1000518	1095	Le Malentendu	68926574	Mlle Julie	female	pensionnaire
+1000519	1095	Le Malentendu	68926574	M. Februgin	male	médecin
+1000520	1095	Le Malentendu	68926574	le, jardinier	male	
+1000521	1096	La Queue du chien	68926574	M. de Montrichard	male	bourgeois
+1000522	1096	La Queue du chien	68926574	M. de Malinval	male	bourgeois
+1000523	1096	La Queue du chien	68926574	la mère Babolein	female	paysanne de Montrichard
+1000524	1096	La Queue du chien	68926574	Geneviève	female	fille de la mère Babolein
+1000525	1096	La Queue du chien	68926574	La Forêt	male	concierge de M. de Montrichard
+1000526	1096	La Queue du chien	68926574	Bluteau	male	garde-moulin de M. de Montrichard
+1000527	1097	Le Bon seigneur	68926574	M. de Valbon	male	seigneur du village
+1000528	1097	Le Bon seigneur	68926574	Duchesne	male	concierge du château
+1000529	1097	Le Bon seigneur	68926574	Henriette	female	fille de Duchesne
+1000530	1097	Le Bon seigneur	68926574	la, Baillive	female	veuve
+1000531	1097	Le Bon seigneur	68926574	Pierre le Noir	male	procureur fiscal
+1000532	1097	Le Bon seigneur	68926574	Du Sillon	male	fermier
+1000533	1098	Les Voisins et les voisines	68926574	M. Tubleu	male	peintre de bâtiment
+1000534	1098	Les Voisins et les voisines	68926574	Mme Tubleu	female	
+1000535	1098	Les Voisins et les voisines	68926574	M. Frangeot	male	fabricant de galons
+1000536	1098	Les Voisins et les voisines	68926574	Mme Frangeot	female	
+1000537	1098	Les Voisins et les voisines	68926574	M. Balrope	male	menuisier
+1000538	1098	Les Voisins et les voisines	68926574	Mme Valrope	female	
+1000539	1098	Les Voisins et les voisines	68926574	M. le Noir	male	fabricant de chapeaux
+1000540	20003	Les Abdérites	29544512	Nicandre	male	premier sénateur d'Abdère
+1000541	20003	Les Abdérites	29544512	Anaximène	male	collègue de Nicandre
+1000542	20003	Les Abdérites	29544512	Phorbas	male	collègue de Nicandre
+1000543	20003	Les Abdérites	29544512	Mirto	female	femme de Nicandre
+1000544	20003	Les Abdérites	29544512	Carite	female	fille de Nicandre et de Mirto
+1000545	20003	Les Abdérites	29544512	Lisis	male	jeune citoyen d'Abdère
+1000546	20003	Les Abdérites	29544512	Aristème	male	Abdérite
+1000547	20003	Les Abdérites	29544512	Tergalion	male	envoyé de Sardis
+1000548	20003	Les Abdérites	29544512	Dromon	male	valet de Lisis
+1000549	20003	Les Abdérites	29544512	un esclave de Nicandre	male	
+1000550	20004	La vérité dans le vin	29543878	M. le Président Nacquart	male	
+1000551	20004	La vérité dans le vin	29543878	Madame la Présidente Nacquart	female	sa femme
+1000552	20004	La vérité dans le vin	29543878	M. Dupuis	male	Secrétaire du Roi
+1000553	20004	La vérité dans le vin	29543878	Madame Dupuis	female	sa femme
+1000554	20004	La vérité dans le vin	29543878	Milord Sinderèze	male	
+1000555	20004	La vérité dans le vin	29543878	M. l'Abbé Kensington	male	neveu de Milord
+1000556	20004	La vérité dans le vin	29543878	un Maître d'Hôtel	male	un Laquais
+1000557	20005	Le Rossignol	29543878	Mr. Varambon	male	Colonel de Hussards
+1000558	20005	Le Rossignol	29543878	Catherine	female	fille de Mr. Varambon
+1000559	20005	Le Rossignol	29543878	Mr. Richard	male	homme de Robe
+1000560	20005	Le Rossignol	29543878	Mr. de saint-Albon	male	Capitaine de Cavalerie
+1000561	20005	Le Rossignol	29543878	Poitevin	male	Valet de Mr. Richard
+1000562	20005	Le Rossignol	29543878	Pierrot	male	Valet de Mr. de Saint-Albon
+1000563	20006	Dupuis et Desronais	29543878	Dupuis	male	homme de finance
+1000564	20006	Dupuis et Desronais	29543878	Mariane	female	sa fille
+1000565	20006	Dupuis et Desronais	29543878	Desronais	male	financier
+1000566	20006	Dupuis et Desronais	29543878	Clénard	male	ci-devant précepteur du feu neveu de Dupuis
+1000567	20006	Dupuis et Desronais	29543878	Gaspard	male	notaire
+1000568	20006	Dupuis et Desronais	29543878	la Violette	male	valet de chambre
+1000569	20006	Dupuis et Desronais	29543878	laquais	male	
+1000570	20007	La Veuve	29543878	Madame Durval	female	veuve d'un Armateur de Saint-Malo
+1000571	20007	La Veuve	29543878	le, Chevalier du Lauret	male	capitaine de cavalerie
+1000572	20007	La Veuve	29543878	Monsieur Licandre	male	oncle du Chevalier
+1000573	20007	La Veuve	29543878	le, Commandeur	male	ami commun de la Veuve et du Chevalier
+1000574	20007	La Veuve	29543878	la Marquise de Leutry	female	femme de la plus grande qualité
+1000575	20007	La Veuve	29543878	Mademoiselle Agathe	female	femme de chambre de la veuve
+1000576	20007	La Veuve	29543878	laquais	male	
+1000577	20008	La partie de chasse de Henri IV	29543878	Henri IV	male	Roi de France
+1000578	20008	La partie de chasse de Henri IV	29543878	le, Duc de Sully	male	son premier Ministre
+1000579	20008	La partie de chasse de Henri IV	29543878	le, Duc de Bellegarde	male	Grand Écuyer
+1000580	20008	La partie de chasse de Henri IV	29543878	le, Marquis de Cochiny	male	favori de la Reine
+1000581	20008	La partie de chasse de Henri IV	29543878	le, Marquis de Praslin	male	Capitaine des Gardes (personnage muet)
+1000582	20008	La partie de chasse de Henri IV	29543878	différents seigneurs de la cour (personnages muets)	group	
+1000583	20008	La partie de chasse de Henri IV	29543878	deux gardes du corps (personnages muets)	group	
+1000584	20008	La partie de chasse de Henri IV	29543878	La Brisée	male	officier des Chasses de la Forêt de Fontainebleau
+1000585	20008	La partie de chasse de Henri IV	29543878	Saint-Jean	male	officier des Chasses de la Forêt de Fontainebleau
+1000586	20008	La partie de chasse de Henri IV	29543878	Michel Richard	male	dit Michau
+1000587	20008	La partie de chasse de Henri IV	29543878	Richard	male	fils de Michau
+1000588	20008	La partie de chasse de Henri IV	29543878	Margot	female	femme de Michau
+1000589	20008	La partie de chasse de Henri IV	29543878	Catau	female	fille de Michau
+1000590	20008	La partie de chasse de Henri IV	29543878	Lucas	male	paysan de Lieursain
+1000591	20008	La partie de chasse de Henri IV	29543878	Agathe	female	paysanne de Lieursain
+1000592	20008	La partie de chasse de Henri IV	29543878	un boucheron	male	
+1000593	20008	La partie de chasse de Henri IV	29543878	deux braconniers	group	
+1000594	20008	La partie de chasse de Henri IV	29543878	un garde-chasse	male	demeurant à Lieursain
+1000595	20009	Nicaise 	29543878	Madame Jérôme	female	marchande drapière
+1000596	20009	Nicaise 	29543878	Suzanne	female	fille de Madame Jérôme
+1000597	20009	Nicaise 	29543878	Monsieur Bartholin	male	Conseiller de la Cour des Aides
+1000598	20009	Nicaise 	29543878	Nicaise	male	premier garçon de boutique de Madame Jérôme
+1000599	20009	Nicaise 	29543878	quatre garçons de la noce	group	
+1000600	20009	Nicaise 	29543878	troupe de violons	group	
+1000601	20010	La Tête à Perruque	29543878	le, Bailli	male	
+1000602	20010	La Tête à Perruque	29543878	la, Baillive	female	
+1000603	20010	La Tête à Perruque	29543878	l'Élue	female	veuve
+1000604	20010	La Tête à Perruque	29543878	le, Vicomte	male	amant de la Baillive
+1000605	20010	La Tête à Perruque	29543878	le, Chevalier	male	amant de l'Élue
+1000606	20010	La Tête à Perruque	29543878	Thomas	male	domestique du Bailli
+1000607	20010	La Tête à Perruque	29543878	Jacqueline	female	sa femme
+1000609	20012	L'abbé de plâtre	68926574	M. de Leurmont	male	Maître des Comptes
+1000610	20012	L'abbé de plâtre	68926574	Mademoiselle Agathe	female	fille de M. de Leurmont
+1000611	20012	L'abbé de plâtre	68926574	M. de St. Ival père	male	Payeur des Rentes
+1000612	20012	L'abbé de plâtre	68926574	M. de St. Ival	male	
+1000613	20012	L'abbé de plâtre	68926574	Labrie	male	laquais de M. de St. Ival
+1000614	20012	L'abbé de plâtre	68926574	Laurent	male	Jardinier de M. de Leurmont
+1000615	20012	L'abbé de plâtre	68926574	M. Léchalas	male	Treillageur
+1000616	20012	L'abbé de plâtre	68926574	le, Commissaire	male	
+1000617	20012	L'abbé de plâtre	68926574	des, Archers	group	
+1000618	20013	Les acteurs de société	68926574	Madame de Montboursy	female	
+1000619	20013	Les acteurs de société	68926574	Mlle de Closière	female	sœur et nièce de Mme de Montboursy
+1000620	20013	Les acteurs de société	68926574	Mlle de Sourlis	female	sœur et nièce de Mme de Montboursy
+1000621	20013	Les acteurs de société	68926574	la, Marquise	female	
+1000622	20013	Les acteurs de société	68926574	la Vicomtesse	female	
+1000623	20013	Les acteurs de société	68926574	le, Comte	male	
+1000624	20013	Les acteurs de société	68926574	le, Chevalier	male	
+1000625	20013	Les acteurs de société	68926574	le, Duc	male	
+1000626	20013	Les acteurs de société	68926574	le, Baron	male	
+1000627	20013	Les acteurs de société	68926574	le, Commandeur	male	
+1000628	20013	Les acteurs de société	68926574	Zéphire	male	Coureur du Duc
+1000629	20013	Les acteurs de société	68926574	la Maitre d'Hôtel	male	
+1000630	20014	L'Amoureux de quinze ans	14779178	le, Marquis	male	père de Lindor
+1000631	20014	L'Amoureux de quinze ans	14779178	Lindor	male	
+1000632	20014	L'Amoureux de quinze ans	14779178	le, Baron	male	père d'Hélène
+1000633	20014	L'Amoureux de quinze ans	14779178	Hélène	female	
+1000634	20014	L'Amoureux de quinze ans	14779178	Jacinte	female	gouvernante d'Hélène
+1000635	20014	L'Amoureux de quinze ans	14779178	Dupuis	male	précepteur de Lindor
+1000636	20014	L'Amoureux de quinze ans	14779178	le, Magister	male	
+1000637	20014	L'Amoureux de quinze ans	14779178	Thomas	male	
+1000638	20014	L'Amoureux de quinze ans	14779178	Babet	female	
+1000639	20014	L'Amoureux de quinze ans	14779178	la Nourrice de Lindor	female	
+1000640	20014	L'Amoureux de quinze ans	14779178	Domestiques	group	
+1000641	20014	L'Amoureux de quinze ans	14779178	Paysans	group	
+1000642	20014	L'Amoureux de quinze ans	14779178	Paysannes	group	
+1000643	20015	Matroco	14779178	Matroco	male	enchanteur malfaisant
+1000644	20015	Matroco	14779178	Furion	male	chef des Géans
+1000645	20015	Matroco	14779178	Gloriane	female	princesse
+1000646	20015	Matroco	14779178	Vaporosine	female	princesse
+1000647	20015	Matroco	14779178	Emphasis	male	amoureux de Gloriane
+1000648	20015	Matroco	14779178	Fleurdiris	male	fils d'Emphasis
+1000649	20015	Matroco	14779178	La Plante	male	écuyer d'Emphasis
+1000650	20015	Matroco	14779178	La Fleur	male	écuyer de Fleurdiris
+1000651	20015	Matroco	14779178	Héraut-d'Armes	male	NA
+1000652	20015	Matroco	14779178	la Fée	female	NA
+1000653	20015	Matroco	14779178	le, chef des nains	male	NA
+1000654	20015	Matroco	14779178	Formidaure	male	chevalier enchanté
+1000655	20015	Matroco	14779178	Ferragus	male	chevalier enchanté
+1000656	20015	Matroco	14779178	Rosiclair	male	chevalier enchanté
+1000657	20015	Matroco	14779178	Zélinde	female	princesse enchantée
+1000658	20015	Matroco	14779178	Griane	female	princesse enchantée
+1000659	20015	Matroco	14779178	Climène	female	princesse enchantée
+1000660	20015	Matroco	14779178	principaux géans	group	NA
+1000661	20015	Matroco	14779178	chevaliers	group	NA
+1000662	20015	Matroco	14779178	pages	group	NA
+1000663	20015	Matroco	14779178	guerriers	group	du parti d'Emphasis et de Fleurdiris
+1000664	20015	Matroco	14779178	juges d'armes	group	NA
+1000665	20015	Matroco	14779178	géans	group	NA
+1000666	20015	Matroco	14779178	nains	group	NA
+1000667	20015	Matroco	14779178	bergers et bergères	group	NA
+1000668	20016	Le Poète supposé	14779178	le, Marquis	male	
+1000669	20016	Le Poète supposé	14779178	le, Bailli	male	tuteur de Babet
+1000670	20016	Le Poète supposé	14779178	Perrin	male	jeune poète
+1000671	20016	Le Poète supposé	14779178	Babet	female	pupille du Bailli
+1000672	20016	Le Poète supposé	14779178	Mme Guillaume	female	fermière du Marquis
+1000673	20016	Le Poète supposé	14779178	Georgette	female	fille de Mme Guillaume
+1000674	20016	Le Poète supposé	14779178	Mme Perrin	female	nourrice du fils du Seigneur
+1000675	20016	Le Poète supposé	14779178	Henri	male	jeune fermier
+1000676	20016	Le Poète supposé	14779178	La Fleur	male	vieux valet de chambre du Marquis
+1000677	20016	Le Poète supposé	14779178	Mathurine	female	jeune villageoise
+1000678	20016	Le Poète supposé	14779178	Colette	female	jeune villageoise
+1000679	20016	Le Poète supposé	14779178	un Garde-chasse	male	
+1000680	20016	Le Poète supposé	14779178	jeunes filles du village	group	
+1000681	20016	Le Poète supposé	14779178	habitants du village	group	
+1000682	20017	Le Couvent	14779178	l', Abbesse	female	femme très-âgée
+1000683	20017	Le Couvent	14779178	la sœur S. Ange	female	religieuse non professe
+1000684	20017	Le Couvent	14779178	la Marquise de S. Ser	female	
+1000685	20017	Le Couvent	14779178	la sœur Bonaventure	female	
+1000686	20017	Le Couvent	14779178	la sœur Anastase	female	jeune converse
+1000687	20017	Le Couvent	14779178	la sœur Euphemie	female	jeune converse
+1000688	20017	Le Couvent	14779178	Mlle Pierville	female	fille d'un financier
+1000689	20017	Le Couvent	14779178	première pensionnaire	female	
+1000690	20017	Le Couvent	14779178	seconde pensionnaire	female	
+1000691	20017	Le Couvent	14779178	torisième pensionnaire	female	
+1000692	20017	Le Couvent	14779178	Françoise	female	commissionnaire attachée au Tour
+1000693	20018	Le Bouquet de Thalie	29543878	le, dieu du Gout	male	
+1000694	20018	Le Bouquet de Thalie	29543878	Thalie	female	jouant aussi le rôle de la Marquise
+1000695	20018	Le Bouquet de Thalie	29543878	la fausse Melpomène	female	jouant aussi le rôle de Lucrèce
+1000696	20018	Le Bouquet de Thalie	29543878	un homme de la cour	male	jouant aussi un Marquis ivre
+1000697	20018	Le Bouquet de Thalie	29543878	le, Chevalier	male	
+1000698	20018	Le Bouquet de Thalie	29543878	Félicité	female	femme de chambre
+1000699	20018	Le Bouquet de Thalie	29543878	la fausse Thalie	female	jouant aussi le rôle de Constance
+1000700	20018	Le Bouquet de Thalie	29543878	le, Comte de Cominges	male	Grand-Père du comte de Châteaufort
+1000701	20018	Le Bouquet de Thalie	29543878	le, comte de Châteaufort	male	petit-fils du Comte de Cominges
+1000702	20018	Le Bouquet de Thalie	29543878	l'Ariette	male	une basse taille
+1000703	20019	Le Galant Escroc	29543878	Monsieur Gasparin	male	financier
+1000704	20019	Le Galant Escroc	29543878	Madame Gasparin	female	tante de Sophie
+1000705	20019	Le Galant Escroc	29543878	Sophie	female	nièce de Madame Gasparin
+1000706	20019	Le Galant Escroc	29543878	le, Chevalier	male	amoureux de Sophie
+1000707	20019	Le Galant Escroc	29543878	le, Comte de Gulphar	male	parent du Chevalier
+1000708	20020	Les Adieux de la Parade	29543878	la Parade	female	rôle joué par un homme grotesquement habillé en femme
+1000709	20020	Les Adieux de la Parade	29543878	l'Auteur	male	
+1000710	20020	Les Adieux de la Parade	29543878	la Fausse Décence	female	
+1000711	20020	Les Adieux de la Parade	29543878	La Fontaine	male	
+1000712	20020	Les Adieux de la Parade	29543878	la Gravelure	female	
+1000713	20021	Madame Prologue	29543878	Madame Prologue	female	
+1000714	20021	Madame Prologue	29543878	Monsieur Coriphée	male	
+1000715	20021	Madame Prologue	29543878	Monsieur l'Abbé Madrigal	male	
+1000716	20021	Madame Prologue	29543878	Monsieur Vaudeville	male	
+1000717	20021	Madame Prologue	29543878	le, Suisse	male	
+1000718	20022	Ce que Dieu garde est bien gardé	29543878	Madame la Comtesse de Saint Toquai	female	
+1000719	20022	Ce que Dieu garde est bien gardé	29543878	Monsieur le, Comte de Saint Toquai	male	son mari
+1000720	20022	Ce que Dieu garde est bien gardé	29543878	un Exempt	male	
+1000721	20022	Ce que Dieu garde est bien gardé	29543878	Monsieur Mi-Clos	male	faux dévot
+1000722	20022	Ce que Dieu garde est bien gardé	29543878	Monsieur le, Chevalier des Courtines	male	homme de la cour
+1000723	20022	Ce que Dieu garde est bien gardé	29543878	Monsieur Pézénas	male	chirurgien gascon
+1000724	20022	Ce que Dieu garde est bien gardé	29543878	Saint-Pierre	male	valet de chambre
+1000725	20023	Les Métamorphoses extravagantes	68926574	Mercure	male	
+1000726	20023	Les Métamorphoses extravagantes	68926574	la Sagesse	female	
+1000727	20023	Les Métamorphoses extravagantes	68926574	la Médisante (en homme)	male	
+1000728	20023	Les Métamorphoses extravagantes	68926574	le, Savant (en femme)	female	
+1000729	20023	Les Métamorphoses extravagantes	68926574	la Coquette (en homme)	male	
+1000730	20023	Les Métamorphoses extravagantes	68926574	le, Chevalier	male	Amant d'Émilie (en femme)
+1000731	20023	Les Métamorphoses extravagantes	68926574	Émilie	female	
+1000732	20023	Les Métamorphoses extravagantes	68926574	Pasquin	male	valet du Chevalier (en femme)
+1000783	20024	Le Siège de Calais	68962659	Edouard III	male	Roi d'Angleterre
+1000784	20024	Le Siège de Calais	68962659	Godefroi de Harcourt	male	général de l'armée anglaise
+1000785	20024	Le Siège de Calais	68962659	Aliénor	female	fille du comte de Vienne gouverneur de Calais
+1000786	20024	Le Siège de Calais	68962659	Mauni	male	chevalier anglais
+1000787	20024	Le Siège de Calais	68962659	Le Comte de Melun	male	chevalier français
+1000788	20024	Le Siège de Calais	68962659	Eustache de Saint-Pierre	male	Maire de Calais
+1000789	20024	Le Siège de Calais	68962659	Aurèle	male	fils du maire
+1000790	20024	Le Siège de Calais	68962659	Amblétuse	male	bourgeois de Calais
+1000791	20024	Le Siège de Calais	68962659	un Officier	male	anglais
+1000792	20024	Le Siège de Calais	68962659	troupe de chevaliers anglais	male	
+1000793	20024	Le Siège de Calais	68962659	troupe de bourgeois de Calais	group	
+1000794	20024	Le Siège de Calais	68962659	un hérault d'armes	group	
+1000795	20024	Le Siège de Calais	68962659	gardes d'Édouard	male	
+1000774	20025	Le Philosophe marié	9873492	Ariste	male	
+1000775	20025	Le Philosophe marié	9873492	Damon	male	ami d'Ariste et amant de Céliante
+1000776	20025	Le Philosophe marié	9873492	Le Marquis du Lauret	male	ami d'Ariste et amant de Mélite
+1000777	20025	Le Philosophe marié	9873492	Lisimon	male	père d'Ariste
+1000778	20025	Le Philosophe marié	9873492	Géronte	male	oncle d'Ariste
+1000779	20025	Le Philosophe marié	9873492	Mélite	female	femme d'Ariste
+1000780	20025	Le Philosophe marié	9873492	Céliante	female	sœur aînée de Mélite
+1000781	20025	Le Philosophe marié	9873492	Finette	female	suivante de Mélite
+1000782	20025	Le Philosophe marié	9873492	un laquais	male	
+1000748	20026	Les Dehors trompeurs	51711644	le Baron	male	
+1000749	20026	Les Dehors trompeurs	51711644	le Marquis	male	
+1000750	20026	Les Dehors trompeurs	51711644	Monsieur de Forlis	male	ami du Baron
+1000751	20026	Les Dehors trompeurs	51711644	Lucile	female	fille de M. de Forlis, promise au Baron
+1000752	20026	Les Dehors trompeurs	51711644	Céliante	female	sœur du Baron
+1000753	20026	Les Dehors trompeurs	51711644	Lisette	female	suivante
+1000754	20026	Les Dehors trompeurs	51711644	Champagne	male	valet du marquis
+1000755	20026	Les Dehors trompeurs	51711644	un laquais	male	
+1000733	20027	L'époux par supercherie	51711644	le Marquis d'Orville	male	mari secret d'Émilie
+1000734	20027	L'époux par supercherie	51711644	Milord Belfort	male	cru mari d'Émilie
+1000735	20027	L'époux par supercherie	51711644	Émilie	female	
+1000736	20027	L'époux par supercherie	51711644	Constance	female	cousine d'Émilie
+1000737	20027	L'époux par supercherie	51711644	La Fleur	male	valet du marquis
+1000738	20028	L'Amant de sa femme	51711644	Philinte	male	
+1000739	20028	L'Amant de sa femme	51711644	Dorante	male	
+1000740	20028	L'Amant de sa femme	51711644	Léandre	male	amant d'Angélique
+1000741	20028	L'Amant de sa femme	51711644	Alidor	male	vieux financier
+1000742	20028	L'Amant de sa femme	51711644	Dorimène	female	femme de Philinte
+1000743	20028	L'Amant de sa femme	51711644	Angélique	female	sœur de Philinte
+1000744	20028	L'Amant de sa femme	51711644	Lisette	female	suivante
+1000745	20028	L'Amant de sa femme	51711644	La Fleur	male	valet de Philinte
+1000746	20028	L'Amant de sa femme	51711644	un maître de musique	male	
+1000747	20028	L'Amant de sa femme	51711644	un notaire	male	
+1000765	20029	Béverlei	17233244	Béverlei	female	
+1000766	20029	Béverlei	17233244	Madame Béverlei	female	
+1000767	20029	Béverlei	17233244	Tomi	male	enfant de six à sept ans
+1000768	20029	Béverlei	17233244	Henriette	female	sœur de Béverlei
+1000769	20029	Béverlei	17233244	Leuson	male	amant d'Henriette
+1000770	20029	Béverlei	17233244	Stukeli	male	faux ami de Béverlei
+1000771	20029	Béverlei	17233244	Jarvis	male	ancien domestique
+1000772	20029	Béverlei	17233244	un inconnu	male	
+1000773	20029	Béverlei	17233244	un sergent	male	
+1000756	20030	L'Esprit follet	29543878	Pontignan	male	jeune officier, amoureux d'Angélique
+1000757	20030	L'Esprit follet	29543878	Alcidor	male	officier retiré, frère d'Angélique
+1000758	20030	L'Esprit follet	29543878	Angélique	female	amoureuse de Pontignan
+1000759	20030	L'Esprit follet	29543878	Léonor	female	amoureuse de Saint Alban
+1000760	20030	L'Esprit follet	29543878	Lisette	female	suivante d'Angélique
+1000761	20030	L'Esprit follet	29543878	Scapin	male	valet de Pontignac
+1000762	20030	L'Esprit follet	29543878	La Forêt	male	intriguant, déguisé en bijoutier anglais
+1000763	20030	L'Esprit follet	29543878	Laramée	male	valet de chambre d'Allcidor
+1000764	20030	L'Esprit follet	29543878	Cascaret	male	laquais d'Alcidor
+1000796	20031	Le Café ou l'écossaise	36925746	maitre Fabrice	group	tenant un café avec des apartements
+1000797	20031	Le Café ou l'écossaise	36925746	Lindane	male	écossaise
+1000798	20031	Le Café ou l'écossaise	36925746	Monrose	female	seigneur écossais
+1000799	20031	Le Café ou l'écossaise	36925746	le Lord Murrai	male	
+1000800	20031	Le Café ou l'écossaise	36925746	Polly	male	suivante
+1000801	20031	Le Café ou l'écossaise	36925746	Freeport	female	gros négociant
+1000802	20031	Le Café ou l'écossaise	36925746	Frelon	male	écrivain de feuilles, fripon
+1000803	20031	Le Café ou l'écossaise	36925746	Lady Alton	male	
+1000804	20031	Le Café ou l'écossaise	36925746	plusieurs Anglais	female	
+1000805	20031	Le Café ou l'écossaise	36925746	domestiques	group	
+1000806	20032	La Surprise de l'amour	102099473	la comtesse	female	
+1000807	20032	La Surprise de l'amour	102099473	Lélio	male	
+1000808	20032	La Surprise de l'amour	102099473	le Baron	male	
+1000809	20032	La Surprise de l'amour	102099473	Colombine	female	
+1000810	20032	La Surprise de l'amour	102099473	Arlequin	male	
+1000811	20032	La Surprise de l'amour	102099473	Jacqueline	female	
+1000812	20032	La Surprise de l'amour	102099473	Pierre	male	
+1000813	20160	La Coquette sans le savoir	32006642, 160997437	Madame Bombinotte	female	
+1000814	20160	La Coquette sans le savoir	32006642, 160997437	Agathe	female	
+1000815	20160	La Coquette sans le savoir	32006642, 160997437	Colette	female	
+1000816	20160	La Coquette sans le savoir	32006642, 160997437	Colin	male	berger
+1000817	20160	La Coquette sans le savoir	32006642, 160997437	Le Procureur fiscal	male	procureur fiscal
+1000818	20160	La Coquette sans le savoir	32006642, 160997437	Lucas	male	
+1000819	20160	La Coquette sans le savoir	32006642, 160997437	Blaise	male	
+1000820	20161	La Fausse Agnès	9873492	le Baron de Vieuxbois	male	
+1000821	20161	La Fausse Agnès	9873492	la Baronne de Vieuxbois	female	
+1000822	20161	La Fausse Agnès	9873492	Angélique	female	fille aînée
+1000823	20161	La Fausse Agnès	9873492	Babet	female	fille cadette
+1000824	20161	La Fausse Agnès	9873492	Léandre	male	amant d'Angélique
+1000825	20161	La Fausse Agnès	9873492	Monsieur des Mazures	male	amant d'Angélique
+1000826	20161	La Fausse Agnès	9873492	L'Olive	male	valet de Léandre
+1000827	20161	La Fausse Agnès	9873492	le Comte des Guérets	male	gentilhomme campagnard
+1000828	20161	La Fausse Agnès	9873492	la Comtesse des Guérets	female	
+1000829	20161	La Fausse Agnès	9873492	monsieur le président	male	
+1000830	20161	La Fausse Agnès	9873492	la Présidente	female	
