@@ -1,0 +1,5 @@
+GREL functions
+
+value.toDate().toString('dd-MM-yyyy')
+
+cell.cross("authors", "VIAFID").cells["name"].value[0]
